@@ -1,0 +1,16 @@
+stm32f3xx_ll_adc.h:6401:26:LL_ADC_IsActiveFlag_JEOC	1
+stm32f3xx_ll_adc.h:6525:22:LL_ADC_ClearFlag_JEOC	1
+stm32f3xx_ll_dma.h:1243:26:LL_DMA_IsActiveFlag_TC1	1
+stm32f3xx_ll_dma.h:1474:22:LL_DMA_ClearFlag_GI1	1
+stm32f3xx_ll_dma.h:1551:22:LL_DMA_ClearFlag_TC1	1
+stm32f3xx_it.c:70:6:NMI_Handler	1
+stm32f3xx_it.c:85:6:HardFault_Handler	1
+stm32f3xx_it.c:100:6:MemManage_Handler	1
+stm32f3xx_it.c:115:6:BusFault_Handler	1
+stm32f3xx_it.c:130:6:UsageFault_Handler	1
+stm32f3xx_it.c:145:6:SVC_Handler	1
+stm32f3xx_it.c:158:6:DebugMon_Handler	1
+stm32f3xx_it.c:171:6:PendSV_Handler	1
+stm32f3xx_it.c:184:6:SysTick_Handler	1
+stm32f3xx_it.c:205:6:DMA1_Channel1_IRQHandler	2
+stm32f3xx_it.c:224:6:ADC1_2_IRQHandler	2
